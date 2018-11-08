@@ -1,1 +1,1 @@
-# rnn-to-predict-stock-prices
+# Using LSTM (Long-Short Term Memory) networks to predict stock prices
